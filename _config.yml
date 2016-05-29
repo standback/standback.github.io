@@ -7,7 +7,9 @@ exclude: ["node_modules", "gulpfile.js", "package.json"]
 title: Artist Theme
 email: your-email@domain.com
 description: A small and simple site I made to test out Jekyll. Watch out! I'm going to make a material design theme next!
-baseurl: "https://standback.github.io" # the subpath of your site, e.g. /blog
+#baseurl: "https://standback.github.io/_site" # the subpath of your site, e.g. /blog
+#baseurl: "http://localhost:4000/_site" # the subpath of your site, e.g. /blog
+
 
 # Where can people find your site?
 url: "http://localhost:4000"
